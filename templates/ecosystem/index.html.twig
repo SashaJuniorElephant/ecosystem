@@ -1,0 +1,22 @@
+{% extends 'base.html.twig' %}
+
+{% block stylesheets %}
+    {{ parent() }}
+    <link rel="stylesheet" href="{{ asset('css/forms.css') }}">
+{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="ui-form">
+                    <h3>{{ 'select_an_action'|trans }}</h3>
+                    <form id="form-with-fields" method="post">
+                        <button class="btn btn-primary" type="submit" name="login">{{ 'authorization'|trans }}</button>
+                        <button class="btn btn-primary" type="submit" name="register">{{ 'registration'|trans }}</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

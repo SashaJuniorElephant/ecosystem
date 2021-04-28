@@ -1,0 +1,32 @@
+body {
+    color: #666666;
+    font-size: 13px;
+    line-height: 23px;
+    background: #f4f8fd;
+}
+.table {
+    color: #666666;
+    font-size: 13px;
+    line-height: 23px;
+}
+.table tr:nth-child(odd) td:nth-child(odd) {
+    background: #ccccff;
+}
+.table tr:nth-child(even) td:nth-child(even) {
+    background: #ccccff;
+}
+
+/* Кнопка */
+#nextStep {
+    margin-bottom: 30px;
+    border-radius:25px;
+    color: #666666;
+    background: #ccccff;
+}
+#nextStep:hover,
+#nextStep:focus,
+#nextStep.active,
+#nextStep:active {
+    color: #ffffff;
+    background: #9999ff;
+}

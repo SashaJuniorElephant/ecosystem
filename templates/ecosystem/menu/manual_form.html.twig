@@ -1,0 +1,23 @@
+<div class="col-4">
+    <div class="ui-form">
+        <h3>{{ 'manual_input_params'|trans }}</h3>
+        {{ form_start(manualForm) }}
+
+        {{ form_row(manualForm.name) }}
+        {{ form_row(manualForm.dimension) }}
+        {{ form_row(manualForm.amountSteps) }}
+        <div class="form-group">
+            <div id="slider-amount-steps"></div>
+        </div>
+        {{ form_row(manualForm.amountSimplePlants) }}
+        {{ form_row(manualForm.amountPoisonPlants) }}
+        {{ form_row(manualForm.amountHerbivores) }}
+        {{ form_row(manualForm.amountPredators) }}
+        {{ form_row(manualForm.amountBigPredators) }}
+        {{ form_row(manualForm.amountVisitors) }}
+        {{ form_row(manualForm.useSessions) }}
+        {{ form_row(manualForm.sendFields) }}
+
+        {{ form_end(manualForm) }}
+    </div>
+</div>

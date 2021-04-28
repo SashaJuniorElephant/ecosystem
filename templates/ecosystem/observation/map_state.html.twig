@@ -1,0 +1,30 @@
+<div class="row">
+    {# Вывод логов #}
+    <div class="col-4">
+        {% for message in mapState.historyLogs %}
+            {{ message.message }}<br />
+        {% endfor %}
+    </div>
+
+    {# Вывод карты #}
+    <div class="col-8 my-auto">
+        <table class="table border">
+            {% for point in game.points %}
+                {% if point.y == 1 %} {# Если первый столбец в строке, #}
+                    <tr>              {# то открываем контейнер для новой строки #}
+                {% endif %}
+
+                <td>
+                    {% for unit in point.units %}
+                        {{ unit.name }} <br />
+                    {% endfor %}
+                </td>
+
+                {% if point.y == game.dimension %} {# Если последний столбец в строке, #}
+                    </tr>                           {# то закрываем контейнер строки #}
+                {% endif %}
+            {% endfor %}
+        </table>
+    </div>
+</div>
+<hr /> {# Разделительная линия #}

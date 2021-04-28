@@ -1,0 +1,27 @@
+game_name: Название игры
+start_observation: Начать наблюдение
+use_sessions: Использовать сессии
+dimension: Размер карты
+amount_of_steps: Количество шагов
+amount_of_simple_plants: Количество растений
+amount_of_poison_plants: Количество ядовитых растений
+amount_of_herbivores: Количество травоядных
+amount_of_predators: Количество хищников
+amount_of_big_predators: Количество больших хищников
+amount_of_visitors: Количество наблюдателей
+continue_observation: Продолжить наблюдение
+select_game: Выберите игру
+select_csv_file: Выберите CSV-файл
+password: Пароль
+confirm_password: Повторите пароль
+username: Имя пользователя
+ecosystem: Экосистема
+menu: Меню
+manual_input_params: Ручной ввод параметров
+download_csv_file: Загрузка CSV-файла
+select_an_action: Выберите действие
+authorization: Авторизация
+registration: Регистрация
+welcome: Добро пожаловать!
+sign_up: Присоединиться
+sign_in: Войти

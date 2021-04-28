@@ -1,0 +1,81 @@
+body {
+	color: #666666;
+	font-size: 13px;
+	line-height: 23px;
+	background: #f4f8fd;
+}
+h3 {
+	color:#888;
+	font-weight: 600;
+	font-size:13px;
+	line-height:13px;
+	margin:15px 0px 25px 0px;
+	padding: 0px;
+	text-transform:uppercase;
+}
+.ui-form{
+	max-width:300px;
+	margin:30px auto;
+	background:#fff;
+	padding:20px 25px;
+	border:1px solid #ddd;
+	border-radius:5px;
+	box-shadow:2px 2px 0px 1px rgba(0,0,0,0.05);
+}
+form{
+	margin-bottom:15px;
+}
+form input {
+	box-shadow:none !important;
+	border-radius:25px;
+	padding:6px 20px;
+	color:#888;
+}
+form input.form-control{
+	height:35px;
+}
+form .btn {
+	color: #ffffff;
+	background: #ed5441;
+	border: 1px solid #e52d16;
+	border-radius:25px;
+	padding:10px 20px;
+	width: 100%;
+	margin-bottom: 15px;
+}
+.btn:hover,
+.btn:focus,
+.btn:active {
+	color: #ffffff;
+	background: #e52d16;
+}
+
+/* Slider */
+.ui-slider .ui-slider-handle {
+	cursor: pointer;
+}
+.ui-slider-horizontal .ui-slider-handle {
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+}
+.ui-widget-header {
+	background: #ed5441;
+}
+
+/* Оформление сообщений валидатора */
+.error {
+	color: #e52d16;
+}
+
+/* checkbox */
+.form-check {
+	margin-bottom: 15px;
+}
+
+/* logout */
+#logout {
+	margin:15px 0px 0px 0px;
+	text-transform:uppercase;
+}

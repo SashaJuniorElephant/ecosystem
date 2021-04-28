@@ -1,0 +1,29 @@
+{% extends 'base.html.twig' %}
+
+{% block stylesheets %}
+    {{ parent() }}
+    <link rel="stylesheet" href="{{ asset('css/observation.css') }}">
+{% endblock %}
+
+{% block body %}
+    <div class="container-fluid" id="map-states">
+        {% for mapState in mapStates %}
+            {% include 'ecosystem/observation/map_state.html.twig' %}
+        {% endfor %}
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <form id="formNextStep">
+                    <input class="form-control" id="nextStep" type="submit" value="Сделать шаг">
+                </form>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block javascripts %}
+    {{ parent() }}
+    <script src="{{ asset('js/nextStep.js') }}"></script>
+{% endblock %}

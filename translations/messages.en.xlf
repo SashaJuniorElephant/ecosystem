@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="LiQS.HD" resname="game_name">
+        <source>game_name</source>
+        <target>Game name</target>
+      </trans-unit>
+      <trans-unit id="uBJlD1w" resname="start_observation">
+        <source>start_observation</source>
+        <target>Start observation</target>
+      </trans-unit>
+      <trans-unit id="7ZWkyJb" resname="use_sessions">
+        <source>use_sessions</source>
+        <target>Use sessions</target>
+      </trans-unit>
+      <trans-unit id="SOtjL_F" resname="dimension">
+        <source>dimension</source>
+        <target>Dimension</target>
+      </trans-unit>
+      <trans-unit id="q29SEVY" resname="amount_of_steps">
+        <source>amount_of_steps</source>
+        <target>Amount of steps</target>
+      </trans-unit>
+      <trans-unit id="R4Hc0Gw" resname="amount_of_simple_plants">
+        <source>amount_of_simple_plants</source>
+        <target>Amount of Simple Plants</target>
+      </trans-unit>
+      <trans-unit id="GujklsZ" resname="amount_of_poison_plants">
+        <source>amount_of_poison_plants</source>
+        <target>Amount of Poison Plants</target>
+      </trans-unit>
+      <trans-unit id="o6rcbSh" resname="amount_of_herbivores">
+        <source>amount_of_herbivores</source>
+        <target>Amount of Herbivores</target>
+      </trans-unit>
+      <trans-unit id="qFt1X7H" resname="amount_of_predators">
+        <source>amount_of_predators</source>
+        <target>Amount of Predators</target>
+      </trans-unit>
+      <trans-unit id="vSStUvc" resname="amount_of_big_predators">
+        <source>amount_of_big_predators</source>
+        <target>Amount of Big Predators</target>
+      </trans-unit>
+      <trans-unit id="Y79L.qw" resname="amount_of_visitors">
+        <source>amount_of_visitors</source>
+        <target>Amount of Visitors</target>
+      </trans-unit>
+      <trans-unit id="kdP47eB" resname="continue_observation">
+        <source>continue_observation</source>
+        <target>Continue observation</target>
+      </trans-unit>
+      <trans-unit id="DSlV2Sy" resname="select_game">
+        <source>select_game</source>
+        <target>Select game</target>
+      </trans-unit>
+      <trans-unit id="0H0RWR3" resname="select_csv_file">
+        <source>select_csv_file</source>
+        <target>Select CSV-file</target>
+      </trans-unit>
+      <trans-unit id="XohImNo" resname="password">
+        <source>password</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="elpRIi3" resname="confirm_password">
+        <source>confirm_password</source>
+        <target>Confirm password</target>
+      </trans-unit>
+      <trans-unit id="FveKfWM" resname="username">
+        <source>username</source>
+        <target>Username</target>
+      </trans-unit>
+      <trans-unit id="Vw3TjcW" resname="ecosystem">
+        <source>ecosystem</source>
+        <target>Ecosystem</target>
+      </trans-unit>
+      <trans-unit id="OYmRAJ2" resname="menu">
+        <source>menu</source>
+        <target>Menu</target>
+      </trans-unit>
+      <trans-unit id="q0lnhBw" resname="manual_input_params">
+        <source>manual_input_params</source>
+        <target>Manual input of parameters</target>
+      </trans-unit>
+      <trans-unit id="Itl9IQR" resname="download_csv_file">
+        <source>download_csv_file</source>
+        <target>Download CSV-file</target>
+      </trans-unit>
+      <trans-unit id="XtyV4H8" resname="select_an_action">
+        <source>select_an_action</source>
+        <target>Select an action</target>
+      </trans-unit>
+      <trans-unit id="y7guvsY" resname="authorization">
+        <source>authorization</source>
+        <target>Authorization</target>
+      </trans-unit>
+      <trans-unit id="KcnDDgY" resname="registration">
+        <source>registration</source>
+        <target>Registration</target>
+      </trans-unit>
+      <trans-unit id="KA1Eqx6" resname="welcome">
+        <source>welcome</source>
+        <target>Welcome</target>
+      </trans-unit>
+      <trans-unit id="cQTa6mh" resname="sign_up">
+        <source>sign_up</source>
+        <target>Sign up!</target>
+      </trans-unit>
+      <trans-unit id="9GluP_Z" resname="sign_in">
+        <source>sign_in</source>
+        <target>Sign in!</target>
+      </trans-unit>
+      <trans-unit id="A4yRYTU" resname="Game name">
+        <source>Game name</source>
+        <target>Game name</target>
+      </trans-unit>
+      <trans-unit id="MVPrtN3" resname="Start observation">
+        <source>Start observation</source>
+        <target>Start observation</target>
+      </trans-unit>
+      <trans-unit id="2BmbA4o" resname="Use sessions">
+        <source>Use sessions</source>
+        <target>Use sessions</target>
+      </trans-unit>
+      <trans-unit id="C8cGhM8" resname="Dimension">
+        <source>Dimension</source>
+        <target>Dimension</target>
+      </trans-unit>
+      <trans-unit id="gvDJtYz" resname="Amount of steps">
+        <source>Amount of steps</source>
+        <target>Amount of steps</target>
+      </trans-unit>
+      <trans-unit id="j2MRJeC" resname="Amount of Simple Plants">
+        <source>Amount of Simple Plants</source>
+        <target>Amount of Simple Plants</target>
+      </trans-unit>
+      <trans-unit id="mklsrd5" resname="Amount of Poison Plants">
+        <source>Amount of Poison Plants</source>
+        <target>Amount of Poison Plants</target>
+      </trans-unit>
+      <trans-unit id="1V1UVKB" resname="Amount of Herbivores">
+        <source>Amount of Herbivores</source>
+        <target>Amount of Herbivores</target>
+      </trans-unit>
+      <trans-unit id="xRuyDQ9" resname="Amount of Predators">
+        <source>Amount of Predators</source>
+        <target>Amount of Predators</target>
+      </trans-unit>
+      <trans-unit id="QvO8R7f" resname="Amount of Big Predators">
+        <source>Amount of Big Predators</source>
+        <target>Amount of Big Predators</target>
+      </trans-unit>
+      <trans-unit id="YJKf8zN" resname="Amount of Visitors">
+        <source>Amount of Visitors</source>
+        <target>Amount of Visitors</target>
+      </trans-unit>
+      <trans-unit id="K9eUNls" resname="Continue observation">
+        <source>Continue observation</source>
+        <target>Continue observation</target>
+      </trans-unit>
+      <trans-unit id="ynMvehJ" resname="Select game">
+        <source>Select game</source>
+        <target>Select game</target>
+      </trans-unit>
+      <trans-unit id="LbudO_c" resname="Select CSV-file">
+        <source>Select CSV-file</source>
+        <target>Select CSV-file</target>
+      </trans-unit>
+      <trans-unit id="588_9PF" resname="Password">
+        <source>Password</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="WsJl85a" resname="Confirm password">
+        <source>Confirm password</source>
+        <target>Confirm password</target>
+      </trans-unit>
+      <trans-unit id="47ienTP" resname="Username">
+        <source>Username</source>
+        <target>Username</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

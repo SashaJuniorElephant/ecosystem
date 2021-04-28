@@ -1,0 +1,27 @@
+game_name: Game name
+start_observation: Start observation
+use_sessions: Use sessions
+dimension: Dimension
+amount_of_steps: Amount of steps
+amount_of_simple_plants: Amount of Simple Plants
+amount_of_poison_plants: Amount of Poison Plants
+amount_of_herbivores: Amount of Herbivores
+amount_of_predators: Amount of Predators
+amount_of_big_predators: Amount of Big Predators
+amount_of_visitors: Amount of Visitors
+continue_observation: Continue observation
+select_game: Select game
+select_csv_file: Select CSV-file
+password: Password
+confirm_password: Confirm password
+username: Username
+ecosystem: Ecosystem
+menu: Menu
+manual_input_params: Manual input of parameters
+download_csv_file: Download CSV-file
+select_an_action: Select an action
+authorization: Authorization
+registration: Registration
+welcome: Welcome!
+sign_up: Sign up
+sign_in: Sign in
